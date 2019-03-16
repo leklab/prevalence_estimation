@@ -28,6 +28,23 @@ all.df$AN_NFE.genome[which(is.na(all.df$AN_NFE.genome))] = 0
 all.df$AC_NFE.exome[which(is.na(all.df$AC_NFE.exome))] = 0
 all.df$AN_NFE.exome[which(is.na(all.df$AN_NFE.exome))] = 0
 
+all.df$AC_ASJ.genome[which(is.na(all.df$AC_ASJ.genome))] = 0
+all.df$AN_ASJ.genome[which(is.na(all.df$AN_ASJ.genome))] = 0
+all.df$AC_ASJ.exome[which(is.na(all.df$AC_ASJ.exome))] = 0
+all.df$AN_ASJ.exome[which(is.na(all.df$AN_ASJ.exome))] = 0
+
+all.df$AC_AFR.genome[which(is.na(all.df$AC_AFR.genome))] = 0
+all.df$AN_AFR.genome[which(is.na(all.df$AN_AFR.genome))] = 0
+all.df$AC_AFR.exome[which(is.na(all.df$AC_AFR.exome))] = 0
+all.df$AN_AFR.exome[which(is.na(all.df$AN_AFR.exome))] = 0
+
+all.df$AC_EAS.genome[which(is.na(all.df$AC_EAS.genome))] = 0
+all.df$AN_EAS.genome[which(is.na(all.df$AN_EAS.genome))] = 0
+all.df$AC_EAS.exome[which(is.na(all.df$AC_EAS.exome))] = 0
+all.df$AN_EAS.exome[which(is.na(all.df$AN_EAS.exome))] = 0
+
+
+
 ##########
 
 ##########
